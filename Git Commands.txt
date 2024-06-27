@@ -1,5 +1,7 @@
 hello shrutiiii
 
+bye  
+
 git clone: Repository Clone through ,
 ssh 
 https
