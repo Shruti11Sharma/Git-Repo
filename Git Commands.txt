@@ -1,0 +1,39 @@
+git clone: Repository Clone through ,
+ssh 
+https
+
+git checkout <branch-name>
+
+{
+main,
+dev,
+staging
+}
+
+git checkout dev
+
+
+git branch -M Shruti
+
+git pull origin dev (pull the code & merge with existing code if any error provide conflict area)
+
+git fetch origin dev (pull the code)
+
+git merge origin dev (merge the code with  branch dev or any branch which is provided)
+
+git push origin dev (condition 1. Access , 2. All Code  should commited)
+
+git add . -> (Add the current working / updated code to locally )
+git commit -m "commit name" ( commit the code and save it locally)
+
+
+git switch <branch-name>
+
+git merge staging (current branch dev)
+
+get fetch -a (fetch all branches)
+
+
+
+
+
